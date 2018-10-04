@@ -1,4 +1,4 @@
-# CSRF_Prevention
+# CSRF_Prevention Synchronizer Token Patterns
 CSRF Prevention Mechanisum Method-1
 
 Cross-Site Request Forgery protection in web applications via Synchronizer Token Patterns
